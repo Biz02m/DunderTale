@@ -1,0 +1,135 @@
+﻿  main.cpp
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(249,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(375,24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(375,24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(375,24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(375,24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'double'
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(375,24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 5 has type 'double'
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(375,24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 6 has type 'double'
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(375,24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 7 has type 'double'
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(375,24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 8 has type 'double'
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(734,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(741,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(748,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(751,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(755,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(811,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(815,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(819,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(823,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(827,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(829,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(858,19): warning C4476: 'sprintf' : unknown type field character 'H' in format specifier
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(852,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(854,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(856,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(858,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(882,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(884,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(886,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(888,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(911,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(913,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(917,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(921,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(925,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(930,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(933,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1036,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1041,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1045,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1046,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1054,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1055,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1073,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1074,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1075,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1075,68): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(996,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(999,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1002,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1005,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1008,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1011,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1014,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1017,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1020,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1023,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1026,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1029,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1033,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1038,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1048,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1058,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1077,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1081,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1093,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1093,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1096,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1096,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1099,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1099,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1112,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1113,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1123,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1124,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1147,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1147,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1150,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1150,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1153,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1153,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1156,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1156,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1248,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1249,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1250,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1251,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1255,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1257,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1258,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1309,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1310,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1318,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1319,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1327,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1328,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1336,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1337,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1345,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1346,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1354,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1355,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1469,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1470,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1471,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1472,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1475,74): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1476,74): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1477,74): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1478,74): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1483,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1484,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1485,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1486,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1489,74): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1490,74): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1491,74): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1492,74): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1495,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1496,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1497,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1498,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1504,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1505,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1506,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1507,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1510,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1511,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1512,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\main.cpp(1513,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 47 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  szablon2vs19.vcxproj -> C:\Users\TH3V1LPL4Y3R\Desktop\DunderTale\Release\szablon2vs19.exe
